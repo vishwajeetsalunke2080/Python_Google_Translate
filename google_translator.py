@@ -147,7 +147,7 @@ def clicked():
 
 #image objects
 rootlabel = PhotoImage(file=r"C:\AppData\gt.png")
-mic_controller = PhotoImage(file=r"C:\AppData\mic.png")
+
 speak = PhotoImage(file=r"C:\AppData\speaker.png")
 
 #root objects
